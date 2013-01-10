@@ -1,0 +1,9 @@
+{
+  "name": "sublocal",
+  "description": "",
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}

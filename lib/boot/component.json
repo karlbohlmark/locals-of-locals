@@ -1,0 +1,11 @@
+{
+  "name": "boot",
+  "description": "",
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ],
+  "local": ["sublocal"],
+  "paths": ["lib"]
+}
